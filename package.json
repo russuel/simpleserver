@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/russuel/simpleserver/issues"
   },
-  "homepage": "https://github.com/russuel/simpleserver#readme"
+  "homepage": "https://github.com/russuel/simpleserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
